@@ -25,6 +25,7 @@ This is a chatbot that can answer questions about IIT Kanpur using data from IIT
 - `rag_chunks.pkl`, `rag_embeddings.pkl` - preprocessed data
 - `requirements.txt` - packages needed
 - `README.md` -this file
+- `video_chatbot.mp4`- video recording of working model of chatbot
 
 
 
