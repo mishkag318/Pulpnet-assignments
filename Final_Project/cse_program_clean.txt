@@ -1,0 +1,81 @@
+[SECTION: CSE_PROGRAM]
+
+Course Timetable (Previous Sem.)
+
+Course Timetable (Current Sem.)
+
+BT-MT, MTech, MS in Cyber Security
+
+Bachelor of Technology (BTech) Program
+
+Bachelor of Technology (BTech) Program
+
+The department has one of the best undergraduate programs in the country. The course curriculum for the undergraduate program gives the flexibility to the students to prepare for advanced specializations. The department commits to offer a set of electives so that students can plan their academic program in advance. The course structure provides a right mix of compulsory and elective courses.
+
+The BTech program is divided into two distinct parts. A student has to go through a common program called Core Curriculum. Most of the core curriculum is completed in the first four semesters. The last four semesters has a large number of professional courses, that initiates the student to topics in Computer Science and Engineering.
+
+The Core Curriculum consists of a package of compulsory courses in Physics, Chemistry, Mathematics, Engineering Sciences and Technical Arts. It also includes several electives in Humanities and Social Sciences (HSS), Engineering Sciences, and Basic Sciences. The curriculum also includes open electives, where student can take the course from any department in the Institute. Through these electives, students can tailor-made their programs to suit their interests and needs.
+
+The Professional Curriculum consists of courses and Project Work. There are some compulsory courses, but there is a significant number of professional electives as well. Three professional courses are done during the first two years itself. The details of the program are given below.
+
+Program Structure for BTech Programme
+
+ENG112A: English Language and Composition
+
+HSS-1 (Level 1): Humanities and Social Sciences elective
+
+ESC101A: Fundamentals of Computing - I
+
+PE102A: Physical Education - II
+
+CS201A: Mathematics for Computer Science - I
+
+ESO207: Data Structures and Algorithms
+
+TA201: Introduction to Manufacturing Processes
+
+ESC201: Fundamentals of Computing - II
+
+HSS-2 (Level 1): Humanities and Social Sciences elective
+
+CS202 + CS203: Mathematics for Computer Science - II + III
+
+CS300A: Technical Communication
+
+HSS-3 (Level 2): Humanities and Social Sciences elective
+
+HSS-4 (Level 2): Humanities and Social Sciences elective
+
+HSS-5 (Level 2): Humanities and Social Sciences elective
+
+1. BTech & Dual Degree for students of Y18 to Y21 [
+
+COMPUTER SCIENCE & ENGINEERING template
+
+2. BTech & Dual Degree for students of Y22 or later [
+
+COMPUTER SCIENCE & ENGINEERING template
+
+"Tentative course templates subject to Senate approval."
+
+1. Double Major for students Earlier than Y16 [
+
+COMPUTER SCIENCE & ENGINEERING template
+
+2. Double Major for students of Y16 to Y21 [
+
+COMPUTER SCIENCE & ENGINEERING template
+
+3. Double Major for students of Y22 or later [
+
+COMPUTER SCIENCE & ENGINEERING template
+
+"Tentative course templates subject to Senate approval."
+
+Guidelines for students to spend some semesters in other institutes as non-degree students
+
+Guidelines to proceed to other Institutions
+
+BT-MT, MTech, MS in Cyber Security
+
+Â© CSE, IIT Kanpur. All rights reserved.

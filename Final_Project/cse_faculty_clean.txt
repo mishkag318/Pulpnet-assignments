@@ -1,0 +1,71 @@
+[SECTION: CSE_FACULTY]
+
+
+BT-MT, MTech, MS in Cyber Security
+
+
+ * Faculty Members at CSE Department, IIT Kanpur
+The email ids of faculties is username AT [cse.iitk.ac.in]
+Complexity Theory and Designing algorithms with algebraic techniques
+
+
+ * Rajiv and Ritu Batra New Faculty Fellow
+Applied Cryptography, Private Information Retrieval, Secure Multiparty Computation, Zero-Knowledge Proofs and Oblivious RAMs
+
+
+ * Poonam & Prabhu Goel Chair Professor
+Compilers, Program Analysis & Code Optimization, Functional Programming, Programming Languages and Education
+Wireless and Sensor Networks, Sensing and Communication for Internet of Things (IoTs) and Building IoT Solutions for Smart Cities
+Post Quantum Cryptography, Side-Channel attacks and Computation on encrypted data and Cryptology
+Logic, Theoretical Computer Science
+Databases, Data Mining, Information Retrieval, Natural Language Processing and Artificial Intelligence
+Natural Language Processing, Machine Learning and Affective Computing
+Operating Systems, Virtualization and Cloud Computing and Computer Networks
+Hardware Security, VLSI for Cryptography and Post Quantum Cryptography
+Sublinear Algorithms, Approximation Algorithms, Statistical Learning Theory and Information Theory
+Computational Biology, Machine Learning and Bioinformatics
+Application of formal methods to embedded and cyberphysical systems and Robotics
+Computer Hardware and Architecture
+Computational Complexity Theory, Security, Theoretical Computer Science and Algorithms
+
+
+ * Class of 1973 Young Faculty Fellow
+Human Factors in Computing, Computational Cognitive Science and Computational Social Science
+Computational Complexity Theory, Algebra, Algebraic Geometry, Theoretical Computer Science and Algorithms
+Machine Learning and Bayesian Statistics
+High Performance Computing, Scalable Parallel Communication and Workflow Optimization
+Internet of things, Sensors, Mobile Computing and Deep Learning
+Optimization, Statistical Learning Theory and Machine Learning
+Computational Complexity Theory, Graph Theory, Theoretical Computer Science and Computational Geometry
+Computational Complexity and Quantum Computing and Semidefinite Programming
+
+
+ * [On Deputation: Director, IIT Gandhinagar]
+Computer Hardware and Architecture, VLSI Design, , Embedded Computing, VLSI Testing and Operating Systems
+
+
+ * Poonam and Prabhu Goel Chair Professor and Dr. Deep Singh and Daljeet Kaur Faculty Fellow-I
+Application of formal methods to embedded and cyberphysical systems and Embedded Computing
+Parallel Processing, VLSI, Data Structures, Algorithms, Heuristics, Graph Theory and Computational Geometry
+Theoretical Computer Science, Algorithmic Information Theory and Computible Analysis
+Reinforcement Learning, Multi-armed bandits, Differential Privacy and Language Model Alignment
+Machine Learning, High Performance Computing and Visualization, Visual Computing and Computer Vision, Explainable and Interpretable AI, Big Data Visual Analytics, Data Science
+Human-Computer Interaction, Software Engineering, End-user Programming, Education and Societal and Humanistic Aspects of Computation
+Formal Methods, Artificial Intelligence, Software Engineering, Programming Languages and Machine Learning
+Databases, Data Streaming and Algorithms
+Game Theory, Distributed Systems and Temporal Logics and Verification
+
+
+ * Tapas Mishra Memorial Chair Professor
+Surender Baswana
+Professor
+Graph Algorithms, Dynamic Algorithms and Randomized Algorithms and Algorithms
+Foundations of Machine Learning and Probabilistic Algorithms
+Programming Languages, Compilers, Program Analysis, Software systems and High Performance Computing
+Hardware Security, Physically Unclonable Functions, Secure Authentication Protocols Design and Internet of Things Security
+Computer Vision, Face Image Analysis, Visual Analytics, Machine Learning and Deep Learning
+
+
+ * Distinguished Visiting Professor
+Artificial Intelligence and Natural Language Processing
+BT-MT, MTech, MS in Cyber Security

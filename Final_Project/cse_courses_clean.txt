@@ -1,0 +1,109 @@
+[SECTION: CSE_COURSES]
+
+
+Course Timetable (Previous Sem.)
+Course Timetable (Current Sem.)
+BT-MT, MTech, MS in Cyber Security
+Courses Offered by CSE Department
+Mathematics for Computer Science - I
+Mathematics for Computer Science - II
+Mathematics for Computer Science - III
+Software Development and Operations
+Software Development and Operations (Lab)
+Computer Science and Engineering Communication Skills
+Principles of Programming Languages
+Introduction to Computer Graphics
+Undergraduate Project - I (UGP-1)
+Undergraduate Project - II (UGP-2)
+Special Topics in Computer Science
+Multi-core and Multiprocessor Architecture
+Introduction to Software Engineering
+Undergraduate Project - I (UGP-1)
+Undergraduate Project - II (UGP-2)
+Undergraduate Project - III (UGP-3)
+Undergraduate Project - IV (UGP-4)
+Mathematics for Computer Science
+Design and Analysis of Algorithms
+Fundamentals of Theoretical Computer Science
+Indexing and Searching Techniques in Databases
+Topics in Contemporary Microarchitecture
+VLSI Design for Parallel Architectures
+Fault Tolerant Computing Systems
+Advanced Operating Systems For Embedded Systems, Pervasive Computing and Internet Of Things
+Cyber security of critical infrastructure
+Analysis of Concurrent Programs
+Embedded and Cyber-Physical Systems
+Formal Methods in Robotics and Automation
+Program Analysis, Verification and Testing
+Finite Automata on Infinite Inputs
+Topics in Design and Analysis of Algorithms
+Advanced Topics in Algorithms and Data Structures
+Concurrent Data Structures and Algorithms
+Topics in Malware Analysis and Intrusion Detection
+Autonomous Cyber-physical Systems
+Fundamentals of Interactive Computer Graphics
+Hardware Security for Internet-of-Things
+Introduction to Internet of Things and its Industrial Applications
+Practical Cyber Security for Cyber Practitioners
+Cryptographic Techniques for Privacy Preservation
+Introduction to Natural Language Processing
+Complexity Measures for Boolean Functions
+Computer Vision and Image Processing
+Topics in Large Data Analysis and Visualization
+Category Theory and Applications in Computing
+Computational Algebra and Number Theory
+Introduction to Algorithms and Logics in Game Theory
+Computational Arithmetic-Geometry and Applications
+Computational Linguistics for Indian Languages
+Selected Areas of Mechanism Design
+Sketching and Sampling For Big Data Analysis
+Topics in Computer Architecture and Operating Systems
+Introduction to Constructive Types Theory and its Applications
+Designing Verifiably Secure Systems
+Recent Advances in Computer Vision
+Great Ideas in Theoretical Computer Science
+Special Topics in Natural Language Processing
+Applications of Markov Chains in Combinatorial Optimization and in Evolutionary Dynamics
+Introduction to Lambda Calculus, Types and Models
+Topics in Game Theory and Collective Choice
+Topics in Probabilistic Modeling and Inference
+Fundamentals of Error Correcting Codes
+Introduction to Game Theory and Mechanism Design
+Selected Areas of Mechanism Design
+Sublinear Algorithms for Processing Massive Data Sets
+Data Streaming Algorithms and Systems
+VLSI Testing and Fault-Tolerance
+Sensing, Communications and Networking for Smart Wireless Devices
+Topics in Internet Technologies
+Differential Privacy in Machine Learning
+Blockchain Technology and Application
+Advanced Compiler Optimizations
+Topics in Logic and Computation
+
+
+ * Parallel Algorithms II:Parallel Complexity and Sub-Logarithmic Time Algorithms
+Small Space Bounded Computations
+Riemann Hypothesis and Its Applications
+Randomized Methods in Computational Complexity
+Elliptic Curves and Their Applications
+Introduction to Machine Learning
+Online Learning and Optimization
+Topics in Probabilistic Modelling and Inference
+Deep Learning for Computer Vision
+Statistical Natural Language Processing
+
+
+ * Multiagent Systems: Games, Algorithms, Evolution
+Computational Cognitive Science
+Generative Artificial Intelligence
+Special Topics in Language Acquisition and Origins
+Algorithms for Bayesian Networks and Causality
+Introduction to Probability for Computer Science
+Analysis of Unconventional Programs
+Innovations in Computer Science and Engineering
+Introduction to Profession and Communications Skills
+Fundamentals of Computing - I/II
+Fundamentals of Computing - I/II (Lab)
+Fundamentals of Computing - I/II (Tutorial)
+BT-MT, MTech, MS in Cyber Security
+Â© CSE, IIT Kanpur. All rights reserved.
