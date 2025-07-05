@@ -1,4 +1,4 @@
-# IITK Assistant – Chatbot using RAG Model and FLAN-T5
+# IITK Assistant : Chatbot using RAG Model and FLAN-T5
 Project by **Mishka Gupta** -PulpNet Final Project 2025.
 
 This is a chatbot that can answer questions about IIT Kanpur using data from IITK CSE department website, ICS, and Vox Populi websites. It uses real AI models to retrieve and generate answers.
